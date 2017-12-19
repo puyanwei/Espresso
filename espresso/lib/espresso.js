@@ -21,11 +21,12 @@ var expect = {
         "]</xmp></br>";
     } else {
       document.getElementById("output").innerHTML +=
-        "<br><font color='red'>FAIL: [" +
+        description +
+        "<br><font color='red'><xmp>FAIL: [" +
         first +
         "] is not equal to [" +
         second +
-        "]</br>";
+        "]</xmp></br>";
     }
   },
 
@@ -55,7 +56,7 @@ var expect = {
     } else {
       document.getElementById("output").innerHTML +=
         description +
-        "<br><font color='red'>FAIL: [" +
+        "<br><font color='red'><xmp>FAIL: [" +
         test +
         "] is false</xmp></br>";
     }
