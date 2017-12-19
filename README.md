@@ -2,7 +2,9 @@
 
 This is a custom testing framework built with javascript.
 
-This was the first section of a project in building a single page app in vanilla javascript with no external frameworks or libraries.
+![screen shot 2017-12-19 at 15 56 43](https://user-images.githubusercontent.com/14803518/34166622-45f1f262-e4d7-11e7-973c-12702a5c46e4.png)
+
+This was the first section of a [project](https://github.com/puyanwei/Notes-App-SPA) in building a single page app in vanilla javascript with no external frameworks or libraries.
 
 ## Installation
 
