@@ -1,0 +1,15 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.espresso-top {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+#output {
+  margin: 4rem;
+}
