@@ -5,7 +5,7 @@ var describe = function(description, test) {
     test();
   } catch (err) {
     document.getElementById("output").innerHTML +=
-      "<br>error: " + err.message + "</br>";
+      "<br><font color='red'>error: " + err.message + "</br>";
     console.log(err);
   }
 };
